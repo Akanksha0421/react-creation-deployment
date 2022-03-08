@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Akanksha0421/react-creation-deployment/static/css/main.64085cc0.css",
-    "main.js": "/Akanksha0421/react-creation-deployment/static/js/main.3d8c2ba2.js",
-    "static/js/787.28cb0dcd.chunk.js": "/Akanksha0421/react-creation-deployment/static/js/787.28cb0dcd.chunk.js",
-    "index.html": "/Akanksha0421/react-creation-deployment/index.html",
-    "main.64085cc0.css.map": "/Akanksha0421/react-creation-deployment/static/css/main.64085cc0.css.map",
-    "main.3d8c2ba2.js.map": "/Akanksha0421/react-creation-deployment/static/js/main.3d8c2ba2.js.map",
-    "787.28cb0dcd.chunk.js.map": "/Akanksha0421/react-creation-deployment/static/js/787.28cb0dcd.chunk.js.map"
+    "main.css": "/react-creation-deployment/static/css/main.64085cc0.css",
+    "main.js": "/react-creation-deployment/static/js/main.ad5ab228.js",
+    "static/js/787.28cb0dcd.chunk.js": "/react-creation-deployment/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/react-creation-deployment/index.html",
+    "main.64085cc0.css.map": "/react-creation-deployment/static/css/main.64085cc0.css.map",
+    "main.ad5ab228.js.map": "/react-creation-deployment/static/js/main.ad5ab228.js.map",
+    "787.28cb0dcd.chunk.js.map": "/react-creation-deployment/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.64085cc0.css",
-    "static/js/main.3d8c2ba2.js"
+    "static/js/main.ad5ab228.js"
   ]
 }
